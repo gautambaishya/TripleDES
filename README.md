@@ -13,7 +13,7 @@
 * Start python3
 
 ## Demo Video
-<video src = "Demo.mp4" muted loop autoplay ></video>
+<img src = "Demo.gif" width="700" height="350">
 <br>
                                                             
 ### Author
