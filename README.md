@@ -13,7 +13,7 @@
 * Start python3
 
 ## Demo Video
-![Demo](https://user-images.githubusercontent.com/45572074/125903307-bd218193-9191-4a65-8795-0aa618cf20f0.mp4)
+<video src = "Demo.mp4" muted loop autoplay ></video>
 <br>
                                                             
 ### Author
