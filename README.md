@@ -7,12 +7,13 @@
 * Python
 * Tkinter
 
-### Installing depencencies and running the program
+## Installing depencencies and running the program
 * Clone the repository
 * Install pycryptodome using `pip install pycryptodome`
 * Start python3
 
-
+## Demo Video
+![Demo](https://user-images.githubusercontent.com/45572074/125903307-bd218193-9191-4a65-8795-0aa618cf20f0.mp4)
 <br>
                                                             
 ### Author
